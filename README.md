@@ -4,7 +4,8 @@ It includes implementation of SHG-Health algorithm in python and dummy database 
 
 Data Set (Heterogeneous Version):
 	In the dataset we have the following files: 
-	PC.txt: stores the undirected relations between patient and CBC. The first column is the patient ID, starting from 1, and the second column is the CBC_test ID,    		starting from 1.
+	
+	PC.txt: stores the undirected relations between patient and CBC. The first column is the patient ID, starting from 1, and the second column is the CBC_test ID, starting from 1.
 	
 	PM.txt: stores the undirected relations between patient and metabolic tests. The first column is the patient ID, starting from 1, and the second column is the metabolic_test ID, starting from 1.
 	
